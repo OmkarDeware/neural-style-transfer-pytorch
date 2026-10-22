@@ -1,0 +1,21 @@
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Experiment outputs and checkpoints
+experiment/
+*.pth
+*.pt
+*.ckpt
+
+# IDE files
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
